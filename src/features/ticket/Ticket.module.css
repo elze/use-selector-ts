@@ -37,6 +37,31 @@
   transition: all 0.15s;
 }
 
+.dropDownList {
+  font-size: 24px;
+  padding: 2px;
+  width: 300px;
+  text-align: left;
+  margin-right: 4px;
+}
+
+.paragraph { 
+  font-size: 18px;
+  margin-right: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  outline: none;
+  border: 2px solid transparent;
+  color: rgb(112, 76, 182);
+  padding-bottom: 4px;
+  background-color: rgba(112, 76, 182, 0.1);
+  text-align: left;
+}
+
+.surroundingText { 
+  font-size: 24px;
+}
+
 .textbox {
   font-size: 32px;
   padding: 2px;
